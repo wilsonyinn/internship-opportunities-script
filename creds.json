@@ -1,9 +1,9 @@
 {
   "type": "service_account",
-  "project_id": "internshipopportunities",
-  "private_key_id": "94f1b27ecaefe207cbb43727e0fa2ff151f5ca6c",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDrOyUukow0I5zA\nBslEiSTt/A4SUdNsIpeXJXU99uOJWFQ6R0bvyL7OnWRDSzOpNe/7Vda9N9m6Gl1V\n4YrkDG02T0sgeYjXXA9YE3EsAIrNwyxYUUWUpU+lrGgpxNmPDoTduiftHRfQ/w1s\nXNCSZFD6ulmDrF35xj+D+/pnqUOxnYrClViZZOIeZeMUn7Y5BGcreIPNQxVywaB/\n++8ZJSLd0DTGEY3gQpq3CfPUxYaIbR1YUEPchVZcrZlBKnQvnzZy8f51WdqDLvIN\n/0Jq8GDW3vWUX5eXoXaSoTWZGg0cVUW83wGON9VsWnpPvYMpzg2rIKinAA/lxBLH\nYpfz7CupAgMBAAECggEAKjX9lNci1hta3kGJfeUvTY5YtxRcYE/vzGViHcmvKH8D\ndEbElbQ7+ycWrhWxUki1xO/xHhjG1wSyoX3c1tHdCi0d8dilQ+IG9drdSNRbFBPV\nIg8JcaRdf8EJmw8yLB/im0gzsHKzSqNuFPctzUs3ldp5RC3a2j6nOKevlkjzNwyS\nU5t4Tx4xaZfMN+xZGWolKi+lObwCzaCHgxuwQMp4+iD/5sJv9vVmsblDjIR0SHlS\nrNv+DbVB3h9h+wCusps3FbUvZNtycZPX5o93/EgUSycxxvqZIFv9R5BSpiLy9SSd\nX+uFkcnG2t87Hhyc923Ru/nUOqxHYF9tCvVmylxcJQKBgQD9R2rd1C3MEe7QoMCu\n2Z7XrWmb7cIVUhinq3pqMpxIQ2JqiUyvhwyAN6fcPJRBkLDKqNsOPP1dYTKHSE2f\ne6YOw5CpwaOTTgAhcbBP0Fem/GabYQKVabS0lNiVlTcjKe4DJXnVQmMjvHVnnQ+G\nZzJSqB+LkvJZg0VSpKkAEMwBDQKBgQDtwhdf0yb6GllDuyqMPB8UIqx/tvHMGpnq\njXX9jS0tM1y3s5bL70/O+E6C2fWu5MBc+lCwj3cAqejgvB7HYq0b42wVCM670de5\n3swBV0sPif5BeqE7vE2O4kAE7Z7rL4hPMyvIAjP+Cpnpt5xN7BN3+FH5A4U5duFD\nuimUfx0WDQKBgEotsnTJgag00Fa13fjXr5fHKBkM5zzLUIE6zZ1wuSjI43gEQjte\nOCENK9Jqw5j4QW75ST7ASgwhPWU1ndZJpnbIfAPbvIaV35/r5hFaGXHElmCHZvRP\ngycoOM6GZyGbVCQDw8zbpqF+vnvcGgHpE2n151c/cE8bDSCJLR3hzX25AoGAIQy3\n3xQk+OMswWOFGJVK5KulOuOdXPfdqWMcobA8NWpMWyTVs2eCuox9rWbK5hLaQpJx\nIPnwWuFDg+nihWjME3Jbldjxk94plKbJyO3veyt9cnCvdPRJ+7CroYO+cYbb9dZx\nIY5c19V1a62gRpyoYCbejjTVEhXaXmXEXeYFjwkCgYBfy55fbI7FnRoeLZfb0U4Q\n7g6cdjYW2CNUkm5y27sUql2/OPdo17u4Tt7tjrwXKr6yE3SmrvwkO7GzQAeJcjIO\nOHfurXQ+Z3WV/KW1RRzAoPQB9ilzEANVX3w2rcnrjWbAZciSbqqgg8sF19fxJj4p\nc9bcSya+S2jCVYXf8eSw/w==\n-----END PRIVATE KEY-----\n",
-  "client_email": "wilson@internshipopportunities.iam.gserviceaccount.com",
+  "project_id": "(insert project id)",
+  "private_key_id": "(insert private key id)",
+  "private_key": "(insert private key),
+  "client_email": "(insert client email)",
   "client_id": "101820641963048620254",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
