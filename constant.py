@@ -1,17 +1,17 @@
 LINKS = [
     # *MARKETING
-    "https://www.linkedin.com/jobs/search?keywords=Marketing%20Intern&location=San%20Francisco%2C%20California%2C%20United%20States&geoId=102277331&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/search/?geoId=90000084&keywords=marketing%20intern&location=San%20Francisco%20Bay%20Area",
     # *INFROMATION SYSTEMS
-    "https://www.linkedin.com/jobs/search?keywords=Business%2BAnalyst%2BIntern&location=San%2BFrancisco%2C%2BCalifornia%2C%2BUnited%2BStates&geoId=102277331&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=2884637010&position=2&pageNum=0"
+    "https://www.linkedin.com/jobs/search/?geoId=90000084&keywords=business%20analyst%20intern&location=San%20Francisco%20Bay%20Area",
     # *SOFTWARE ENGINEERING
-    "https://www.linkedin.com/jobs/search?keywords=software%20engineer%20intern&location=San%20Francisco%2C%20California%2C%20United%20States&geoId=102277331&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/search/?geoId=90000084&keywords=software%20engineering%20intern&location=San%20Francisco%20Bay%20Area",
     # *FINANCE
-    "https://www.linkedin.com/jobs/search?keywords=Finance%20Intern&location=San%20Francisco%2C%20California%2C%20United%20States&geoId=102277331&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/search/?geoId=90000084&keywords=finance%20intern&location=San%20Francisco%20Bay%20Area",
     # *ACCOUNTING
-    "https://www.linkedin.com/jobs/search?keywords=Accounting%20Intern&location=San%20Francisco%2C%20California%2C%20United%20States&geoId=102277331&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0",
+    "https://www.linkedin.com/jobs/search/?geoId=90000084&keywords=accounting%20intern&location=San%20Francisco%20Bay%20Area",
     # *PRODUCT MANAGEMENT
-    "https://www.linkedin.com/jobs/search?keywords=Product%20Management%20Intern&location=San%20Francisco%2C%20California%2C%20United%20States&geoId=102277331&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0"
+    "https://www.linkedin.com/jobs/search/?geoId=90000084&keywords=product%20management%20intern&location=San%20Francisco%20Bay%20Area",
     # *BIOLOGY INTERN
-    "https://www.linkedin.com/jobs/search?keywords=Biology%20Intern&location=San%20Francisco%2C%20California%2C%20United%20States&geoId=102277331&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0"
+    "https://www.linkedin.com/jobs/search/?geoId=90000084&keywords=biology%20intern&location=San%20Francisco%20Bay%20Area"
 ]
         
