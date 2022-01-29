@@ -83,6 +83,7 @@ for i in range(len(LINKS)):
     print(str(i) + ": " + LINK)
 
     sheet = client.open("Internship Opportunities").get_worksheet(i+1)
+    sheet.batch_clear(["A2:A100", "D2:D100", "F2:F100", "H2:H100"]) 
 
     positions = []
     companies = []
